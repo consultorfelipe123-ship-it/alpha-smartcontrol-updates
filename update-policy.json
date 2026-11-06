@@ -1,9 +1,9 @@
 {
     "schema":  1,
     "appId":  "com.controlelg.webosremote",
-    "published":  false,
-    "latestVersion":  "1.2.0",
+    "published":  true,
+    "latestVersion":  "1.2.2",
     "minSupportedVersion":  "1.2.0",
-    "apkUrl":  "",
-    "notes":  "Atualizacoes do Alpha SmartControl."
+    "apkUrl":  "https://expo.dev/artifacts/eas/BdQNnD6jrCPAJ2xAjHVTc6CIRS9he9n7Eavq-bV0Tao.apk",
+    "notes":  "Melhorias no enquadramento e fundo continuo das telas."
 }
