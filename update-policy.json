@@ -2,8 +2,8 @@
     "schema":  1,
     "appId":  "com.controlelg.webosremote",
     "published":  true,
-    "latestVersion":  "1.2.2",
+    "latestVersion":  "1.2.4",
     "minSupportedVersion":  "1.2.0",
-    "apkUrl":  "https://expo.dev/artifacts/eas/BdQNnD6jrCPAJ2xAjHVTc6CIRS9he9n7Eavq-bV0Tao.apk",
-    "notes":  "Melhorias no enquadramento e fundo continuo das telas."
+    "apkUrl":  "https://expo.dev/artifacts/eas/v73-eRkFdkVK1OnlcsE8DQv2NLWSGG77sEF8t8Y5xtc.apk",
+    "notes":  "Teste do atualizador interno: download e instalacao no aplicativo."
 }
