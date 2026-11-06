@@ -3,7 +3,7 @@
     "appId":  "com.controlelg.webosremote",
     "published":  true,
     "latestVersion":  "1.2.4",
-    "minSupportedVersion":  "1.2.0",
+    "minSupportedVersion":  "1.2.4",
     "apkUrl":  "https://expo.dev/artifacts/eas/v73-eRkFdkVK1OnlcsE8DQv2NLWSGG77sEF8t8Y5xtc.apk",
     "notes":  "Teste do atualizador interno: download e instalacao no aplicativo."
 }
